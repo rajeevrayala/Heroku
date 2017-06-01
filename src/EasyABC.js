@@ -167,12 +167,3 @@ class EasyABC extends Component {
 }
 
 export default EasyABC;
-
-
-
-
-
-
-
-
-
